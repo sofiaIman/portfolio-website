@@ -1,8 +1,8 @@
 import React from "react";
-import foodDel from "../../public/assets/portfolio/fooddel.png";
-import crime from "../../public/assets/portfolio/crimeInsight.png";
-import bites from "../../public/assets/portfolio/imanBites.png";
-import techPen from "../../public/assets/portfolio/techpen.png";
+import foodDel from "../../public/assets/portfolio/fooddel.jpg";
+import crime from "../../public/assets/portfolio/crimeInsight.jpg";
+import bites from "../../public/assets/portfolio/imanBites.jpg";
+import techPen from "../../public/assets/portfolio/techpen.jpg";
 import { MdExpandMore } from "react-icons/md";
 import Link from "next/link";
 import Image from "next/image";
