@@ -3,7 +3,7 @@ import foodDel from "../../public/assets/portfolio/fooddel.jpg";
 import crime from "../../public/assets/portfolio/crimeInsight.jpg";
 import bites from "../../public/assets/portfolio/imanBites.jpg";
 import techPen from "../../public/assets/portfolio/techpen.jpg";
-import stayCationer from "../../public/assets/portfolio/staycationer.PNG";
+import stayCationer from "../../public/assets/portfolio/staycationer.jpg";
 
 import { FaGithub } from "react-icons/fa";
 import { AiOutlineCaretRight } from "react-icons/ai";
